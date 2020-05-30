@@ -12,13 +12,3 @@ Number of confirmed COVID19 cases in various locations across the world provided
 ```Validation MAE = 0.5689```
 
 This was the result of training for 150 epochs without any thorough tuning. The forecast graphs are shown in the notebook.
-
-![thailand](https://github.com/KongpolC/covid_19_forecast/tree/master/images/thailand.png)
-
-![us](https://github.com/KongpolC/covid_19_forecast/tree/master/images/us.png)
-
-![russia](https://github.com/KongpolC/covid_19_forecast/tree/master/images/russia.png)
-
-![uk](https://github.com/KongpolC/covid_19_forecast/tree/master/images/uk.png)
-
-![india](https://github.com/KongpolC/covid_19_forecast/tree/master/images/india.png)
